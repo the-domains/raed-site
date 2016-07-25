@@ -6,9 +6,13 @@ color:
   saturation: 0.47359239030629396
   rhythmicContrast: 0.9675166218075901
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Raed Site
+navigation:
+  - id: 42080f42-3bc3-4be9-a745-aaeeaa42a73d
+    name: Home
+    type: content
