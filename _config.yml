@@ -12,7 +12,4 @@ color:
     - '#3498DB'
     - '#2980B9'
 name: Raed Site
-navigation:
-  - id: ecfd41d2-1cf7-48e3-b145-73d904b3c5b6
-    name: About
-    type: content
+navigation: []
