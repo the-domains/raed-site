@@ -1,0 +1,14 @@
+layout_spectrum: 0.35086637758649886
+typography_spectrum: 0.04375905613414943
+color:
+  brandStrength: 0.8540072485338897
+  lightness: 0.7024556626565754
+  saturation: 0.47359239030629396
+  rhythmicContrast: 0.9675166218075901
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Raed Site
